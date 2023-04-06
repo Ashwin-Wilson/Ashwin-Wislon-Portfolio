@@ -1,6 +1,24 @@
-.background{
-    background-color: green;
+*{
+    width: 100%;
+    height: 100vh;
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+    }
+.box{
+    width: 100%;
+    height: 100%;
+    background-color: #161616;
 }
-.img{
-    width: 20rem;
+.front-slide{
+    width: 100%;
+    height: 100%;
+    background-color: #0c0c0c;
+    position: absolute;
+    padding-top: 20%; 
+}
+.welcome{
+    color: #32CD32;
+    position: relative;
+    
 }
